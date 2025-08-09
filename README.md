@@ -27,6 +27,7 @@ This project aims to develop a machine learning model to predict default risk, e
   - KS Statistic: 86.87%
 - **Interpretability Tools**:
   - SHAP (feature importance)
+  <img width="728" height="691" alt="image" src="https://github.com/user-attachments/assets/9fd0070d-7937-4a1b-b96f-85a40f094f5d" />
 
    
   - LIME (local interpretability)
