@@ -9,10 +9,13 @@ import joblib
 import numpy as np
 import pandas as pd
 from sklearn.preprocessing import StandardScaler
+import os
 
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+MODEL_PATH = os.path.join(BASE_DIR, "model", "model_data.pkl")
 
-model_data = joblib.load(r"project-root/model/model_data.pkl")
-model_data
+model_data = joblib.load(MODEL_PATH)
+
 
 
 # =============================================================================
