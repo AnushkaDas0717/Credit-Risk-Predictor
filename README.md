@@ -31,6 +31,7 @@ This project aims to develop a machine learning model to predict default risk, e
 
    
   - LIME (local interpretability)
+  <img width="711" height="401" alt="image" src="https://github.com/user-attachments/assets/d57a82db-6cd6-49c3-aab7-6fc4db7367e0" />
 
    
 ### Key Results
