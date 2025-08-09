@@ -47,7 +47,8 @@ This project aims to develop a machine learning model to predict default risk, e
 ### Visualizations
 1. AUC-ROC curve with near-perfect performance (AUC: 0.99).
 
-   ![rocauc](https://github.com/nafiul-araf/Credit-Risk-Modeling-End-to-End-Project/blob/main/images/ROC%20Curve.png)
+   <img width="860" height="682" alt="image" src="https://github.com/user-attachments/assets/cf85cc7b-0cd9-4440-935d-10c9053cc65b" />
+
    
 2. SHAP summary plot illustrating top features influencing predictions.
 
@@ -157,8 +158,10 @@ All dependencies are listed in `requirements.txt` for easy installation.
 ## **Example Screenshots**
 1. **Home Page**: Displays the project title and input interface.
 2. **Results Page**: Shows default probability, credit score, and rating with actionable insights.
+<img width="1919" height="886" alt="Screenshot 2025-08-09 130040" src="https://github.com/user-attachments/assets/21d38b91-3d51-4e34-b68d-5f6313d9ff1f" />
 
-![image](https://github.com/user-attachments/assets/d1b51282-cf2a-4e9a-ab19-fbe407b425ba)
+<img width="1919" height="902" alt="image" src="https://github.com/user-attachments/assets/cf0fd885-e1f8-4d77-bd0b-0c73ebd9df19" />
+
 
 
 
